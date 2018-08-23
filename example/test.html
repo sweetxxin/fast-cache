@@ -6,5 +6,11 @@
 <body>
 	<p>fast-cache test</p>
 	<script src="../release/bundle.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		var FC = window.FastCache;
+		var cache = new FC();
+		cache.set('a',100);
+		alert(cache.get('a'));
+	</script>
 </body>
 </html>
