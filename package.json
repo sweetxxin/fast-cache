@@ -1,5 +1,5 @@
 {
-  "name": "fast-cache-npm",
+  "name": "sweetxxin-fast-cache",
   "version": "0.0.1",
   "description": "型快速前端缓存工具，防止内存泄露",
   "main": "src/index.js",
