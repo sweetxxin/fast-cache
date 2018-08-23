@@ -1,7 +1,7 @@
 # fast-cache
 
 小型快速前端缓存工具，防止内存泄露
-
+官网 https://sweetxxin.github.io/
 ## 简介
 
 ## 安装下载
