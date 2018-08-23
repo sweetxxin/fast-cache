@@ -1,5 +1,5 @@
 {
-  "name": "fast-cache",
+  "name": "fast-cache-npm",
   "version": "0.0.1",
   "description": "型快速前端缓存工具，防止内存泄露",
   "main": "src/index.js",
@@ -29,5 +29,8 @@
     "babel-preset-latest": "^6.24.1",
     "webpack": "^4.17.1",
     "webpack-cli": "^3.1.0"
+  },
+  "dependencies": {
+    "user": "0.0.0"
   }
 }

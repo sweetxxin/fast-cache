@@ -6,6 +6,8 @@
 
 # 安装下载
 
+- 下载地址 https://github.com/sweetxxin/fast-cache/releases
+
 
 # 快速使用
 
