@@ -1,0 +1,36 @@
+{
+  "name": "sweetxxin-fast-cache",
+  "version": "0.0.2",
+  "description": "型快速前端缓存工具，防止内存泄露",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "webpack",
+    "example": "http-server -p 8880"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweetxxin/fast-cache.git"
+  },
+  "keywords": [
+    "cache"
+  ],
+  "author": "https://github.com/sweetxxin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sweetxxin/fast-cache/issues"
+  },
+  "homepage": "https://github.com/sweetxxin/fast-cache#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0"
+  },
+  "dependencies": {
+    "user": "0.0.0"
+  }
+}
