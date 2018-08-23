@@ -8,9 +8,9 @@
 
 - 下载地址 https://github.com/sweetxxin/fast-cache/releases 
 - `npm i sweetxxin-fast-cache`
-- CDN 
+- CDN http://unpkg.com/sweetxxin-fast-cache/release/bundle.js
 
-##快速使用
+## 快速使用
 
 简单接入的文档
 
@@ -19,7 +19,7 @@
 
 ## 交流 & 提问
 
-https://github.com/sweetxxin/fast-cache/issues
+- 提问 https://github.com/sweetxxin/fast-cache/issues
 
 ## 关于作者
 
